@@ -17,7 +17,7 @@ This project is a **FastAPI-based AI chatbot** that leverages **LangChain, LangG
 
 ### **1. Clone the repository**  
 ```bash
-git clone https://github.com/yourusername/langgraph-ai-agent.git
+git clone https://github.com/suhasmodi/langgraph-ai-agent.git
 cd langgraph-ai-agent
 ```
 
